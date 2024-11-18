@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Self Projects & Practise"
+		},
+		{
+			"path": "../../../../Subjects"
+		},
+		{
+			"path": "C:/xampp/htdocs/xampp-clg"
+		},
+		{
+			"path": "C:/xampp/htdocs/xampp-pers"
+		},
+		{
+			"path": "C:/xampp/htdocs/Exam"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "College Projects"
+	}
+}
